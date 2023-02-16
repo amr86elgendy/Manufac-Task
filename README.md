@@ -1,5 +1,5 @@
 these are screenshots from the app
-![Alt text](/images/chart.png?raw=true "Optional Title")
+![Alt text](/chart.png?raw=true "Optional Title")
 
 After cloning the repo, to install the dependencies, you can run:
 ### `yarn install`
