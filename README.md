@@ -1,4 +1,5 @@
-
+these are screenshots from the app
+![Alt text](/images/chart.png?raw=true "Optional Title")
 
 After cloning the repo, to install the dependencies, you can run:
 ### `yarn install`
@@ -19,6 +20,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+
 
 
 
